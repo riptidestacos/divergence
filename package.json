@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/riptidestacos/divergence#readme",
   "dependencies": {
+    "bufferutil": "^4.0.8",
     "discord.js": "^14.16.2",
-    "ffmpeg": "^0.0.4"
+    "ffmpeg": "^0.0.4",
+    "nodemon": "^3.1.4",
+    "utf-8-validate": "^6.0.4"
   }
 }
